@@ -15,7 +15,7 @@ dataset/
 └── testing/
     ├── fire/
     └── non_fire/
-
+```
 ## 1 Paper Link 
 Paper will be available after publication.
 ## 2 Dataset
